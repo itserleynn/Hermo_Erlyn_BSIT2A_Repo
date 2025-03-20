@@ -1,5 +1,5 @@
-var locatio1 = 3;
-var locatio2 = 4;
+var location1 = 3;
+var location2 = 4;
 var location3 = 5;
 
 var guess
