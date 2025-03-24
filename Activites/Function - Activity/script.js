@@ -10,6 +10,6 @@ function whatShallIWear(temp) {
 
 
 whatShallIWear(50);
-whatShallIWear(80);
 whatShallIWear(60);
+whatShallIWear(80);
 
